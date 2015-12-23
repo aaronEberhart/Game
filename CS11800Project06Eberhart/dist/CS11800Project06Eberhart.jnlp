@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CS11800Project06Eberhart.jnlp">
+  <information>
+    <title>CS11800Project06Eberhart</title>
+    <vendor>aaron_000</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CS11800Project06Eberhart.jar" size="4208102" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CS11800Project06Eberhart" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="cs1180project06eberhart.CS1180Project06Eberhart"  name="CS11800Project06Eberhart" />
+  <update check="always"/>
+</jnlp>
